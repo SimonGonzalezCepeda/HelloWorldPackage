@@ -1,0 +1,13 @@
+{
+    "name": "sylver/hello-world-package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "SimonGonzalezCepeda",
+            "email": "simongonzalez@iesebre.com"
+        }
+    ],
+    "require": {
+        "psr-4" : {"Sylver\\": "src/"}
+    }
+}
